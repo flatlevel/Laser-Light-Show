@@ -1,0 +1,6 @@
+[submodule "lib/FastLED"]
+	path = lib/FastLED
+	url = https://github.com/FastLED/FastLED.git
+[submodule "lib/NeoPixelEffects"]
+	path = lib/NeoPixelEffects
+	url = https://github.com/nullhan/NeoPixelEffects.git
